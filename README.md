@@ -9,7 +9,9 @@ This port expands system compatibility along with moving towards support for aut
 2. Overload the Qtimer in the mccqEthernet object such that it can do single channel captures and multi channel captures.
 3. Add additional support for functions in original project which are not currently ported.
 
-**v1.0 Notes**
+**LOG**
+
+**v1.0**
 
 **JV(2/17/2021 12:05 PST):** *Updated license file. Old file was GNU Public but the original driver used GNU Lesser Public, so to abide by the rules of the lesser license, this will be the license used.*
 
