@@ -6,9 +6,13 @@ This port expands system compatibility along with moving towards support for aut
 
 **TODO**
 1. Move UDP/TCP buffers into mccqethernet object.
-2. Add additional support for functions in original project which are not currently ported.
+2. Overload the Qtimer in the mccqEthernet object such that it can do single channel captures and multi channel captures.
+3. Add additional support for functions in original project which are not currently ported.
 
 **v1.0 Notes**
+
+**JV(2/16/2021 15:43 PST):** *Worked further and created a multi channel version which captures all channels and displays akin to the single chan cap project. Uploaded this project as*
+
 
 **JV(2/16/2021 15:43 PST):** *Discovered that there was mishandling in the multithreading implementation. Project was fixed, rezipped, and uploaded. Now there are indicators in the gui indicating current collected temperature as well as connection status and units being displayed on the LCD panel*
 
