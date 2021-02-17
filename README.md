@@ -6,7 +6,7 @@ This port expands system compatibility along with moving towards support for aut
 
 **TODO**
 1. Move UDP/TCP buffers into mccqethernet object.
-2. Overload the Qtimer in the mccqEthernet object such that it can do single channel captures and multi channel captures.
+2. Overload the Qtimer in the mccqEthernet object such that it can do single channel captures and multi channel captures using the two dedicated functions for these purposes.
 3. Add additional support for functions in original project which are not currently ported.
 
 **LOG**
