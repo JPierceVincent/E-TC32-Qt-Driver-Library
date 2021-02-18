@@ -1,4 +1,4 @@
-**TC32-Ethernet-Qt-C++-Driver-Library v1.0.0**
+**TC32-Ethernet-Qt-C++-Driver-Library v1.0.1**
 
 A Qt C++ modified port of an open source C driver for the MCC TC-32 written by Warren Jasper and housed at the repo:
 https://github.com/org-arl/MCC_Linux_Drivers/tree/master/Ethernet/c
